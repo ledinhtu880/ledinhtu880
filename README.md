@@ -1,5 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is fellows
-===============================================================================================================================
+# Hi fellows👋
 
 * ✉️  You can contact me at [ledinhtu880@gmail.com](mailto:ledinhtu880@gmail.com)
 * 📫 How to reach me: <a href="https://www.facebook.com/ldt880">Facebook</a>
