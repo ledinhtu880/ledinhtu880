@@ -1,7 +1,6 @@
 # Hi fellows👋
 
 * ✉️  You can contact me at [ledinhtu880@gmail.com](mailto:ledinhtu880@gmail.com)
-* 📫 How to reach me: <a href="https://www.facebook.com/ldt880">Facebook</a>
 
 
 ### Skills
